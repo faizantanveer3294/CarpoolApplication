@@ -28,7 +28,7 @@ struct Login: View {
                         .bold()
                         .padding(.top, 150)
                     
-                    TextField("Email", text: $email)
+                    TextField("Emails", text: $email)
                         .textFieldStyle(RoundedBorderTextFieldStyle())
                         .autocapitalization(.none)
                         .keyboardType(.emailAddress)
