@@ -149,8 +149,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sendbird/sendbird-swiftui-ios.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "e057036d89d21debad4b9d34925ad6f4733f5a9f"
+        "revision" : "951347296cbed79e1aaf5c75dd7b4241ec7b2eec",
+        "version" : "1.0.0"
       }
     },
     {
