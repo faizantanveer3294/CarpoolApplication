@@ -24,7 +24,7 @@ struct SignupView: View {
         if #available(iOS 16.0, *) {
             NavigationStack {
                 VStack(spacing: 20) {
-                    Text("Sign Up")
+                    Text("Sign Up for testing purpose")
                         .font(.largeTitle)
                         .bold()
                         .padding(.top, 150)
